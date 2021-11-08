@@ -10,6 +10,6 @@
 > 주제 - 제주도 여행 트렌드 분석
 
 ---
-https://www.notion.so/280365a63681478c8993ca46cdf36a07
+<https://www.notion.so/280365a63681478c8993ca46cdf36a07>
 
 https://www.notion.so/6f4a662150c746298a344a11c67cde1c#9d6f316593744f29bc66a04bc06e5abc

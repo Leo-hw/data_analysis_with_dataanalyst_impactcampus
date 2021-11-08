@@ -12,4 +12,4 @@
 ---
 <https://www.notion.so/280365a63681478c8993ca46cdf36a07>
 
-https://www.notion.so/6f4a662150c746298a344a11c67cde1c#9d6f316593744f29bc66a04bc06e5abc
+[embed]http://https://github.com/Leo-hw/data_analysis_with_dataanalyst_impactcampus/blob/main/week5/%EC%A0%9C%EC%A3%BC%EB%8F%84%EC%97%AC%ED%96%89%ED%8A%B8%EB%A0%8C%EB%93%9C%EC%9D%98%EB%B3%80%ED%99%94_final_%EC%B5%9C%EC%A2%85.pdf[/embed]
